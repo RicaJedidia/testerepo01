@@ -7,6 +7,9 @@
 
             System.Console.WriteLine("Olá meus amiguinhos...");
 
+
+            System.Console.WriteLine("Presione qualquer tecla para sair...");
+
             System.Console.ReadKey();
 
         }
