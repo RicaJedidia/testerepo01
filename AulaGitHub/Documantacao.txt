@@ -5,3 +5,5 @@ Segumdo Commit
 Comite na Web
 
 SEgundomComite na web
+
+Não usar divergencia
